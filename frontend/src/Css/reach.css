@@ -1,0 +1,33 @@
+.font{
+    font-size:medium;
+    font-weight: 600;
+    font-style: oblique;
+}
+.p{
+    display: inline-flex;
+    padding: 8px;
+}
+.social{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+}
+.social:hover{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(194, 21, 116);
+}
+.text1{
+    font-style: oblique;
+}
+.color2{
+    background: linear-gradient(270deg, rgb(61, 58, 58) 0%, rgba(255,255,255,1) 25%);
+}
+.font:hover{
+    font-weight: bold;
+}
+.line:hover{
+    text-decoration: underline;
+    color: rgb(194, 21, 116);
+    cursor: pointer;
+}

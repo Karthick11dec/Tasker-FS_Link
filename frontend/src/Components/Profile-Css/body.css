@@ -1,0 +1,42 @@
+.batch{
+    margin:10px 0px;
+}
+.square4{
+    border: 2px solid rgb(13, 13, 85);
+    border-radius: 5px ;
+    padding: 20px ;
+    margin:20px 0px;
+    font-style: oblique;
+}
+.fixed{
+    position: fixed;
+    top: 56px;
+    background-color: rgb(231, 231, 231);
+    box-sizing: content-box;
+    color: black;
+    left: 0px;
+    padding: 17px;
+}
+.fixed1{
+    position: fixed;
+    top: 60px;
+    background-color: black;
+    box-sizing: content-box;
+    color: white;
+    right: 0px;
+    padding: 17px;
+}
+.fixed2{
+    position: sticky; 
+    top:10vh ;
+}
+.oblique{
+    font-style: oblique;
+    font-weight: bold;
+    padding: 10px;
+}
+.capitalize{
+    text-transform: capitalize;
+    font-weight: normal;
+    font-style: oblique;
+}

@@ -1,0 +1,32 @@
+.justify{
+    text-align: center;
+    margin-top: 25%;
+    margin-left: 25%;
+}
+.flex{
+    display: flex;
+    justify-content:center;
+}
+.pad-top{
+    padding-top:25vh;
+}
+.pad{
+    padding-top: 8vh;
+    padding-left: 4vw;
+}
+.square{
+    border: 2px solid rgb(13, 13, 85);
+    border-radius: 5px ;
+    padding: 30px ;
+}
+.move{
+    font-weight: bold;
+    margin-left: 24vw;
+}
+.avatar{
+    font-weight: bold;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 8vw;
+    font-size: 30px;
+}

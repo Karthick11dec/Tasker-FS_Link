@@ -1,0 +1,37 @@
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    background-color: black;
+    top: 0;
+    width: 100%;
+    z-index: 2000;
+  }
+  .navbar{
+    height: 12vh !important;
+  }
+  .underline{
+    color: white !important;
+    font-size: 15px;
+    font-weight:500;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: rgb(255, 49, 117);
+  }
+  .underline:hover{
+    background-color: rgb(221, 69, 120);
+  }
+  .name{
+    color: rgb(255, 67, 130);
+    font-family: 'Girassol', cursive;
+    font-weight:bolder;
+    font-size: 35px;
+    letter-spacing: 3px;
+    margin-left: 13vw;
+    text-shadow: 6px 5px 4px rgb(83, 78, 79);
+  }
+  .l{
+    color: white;
+  }

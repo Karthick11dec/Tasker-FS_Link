@@ -1,0 +1,80 @@
+/* .link{
+    text-decoration: underline !important;
+    color: blue;
+}
+.taskcolor{
+    text-decoration: none !important;
+    color: brown;
+}
+.frame{
+    border: 1px solid rgb(255, 222, 222);
+    padding: 15px;
+} */
+.font1{
+    font-weight: bolder;
+}
+.font3{
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.font2{
+    font-weight: 600;
+}
+.state{
+    position: absolute;
+    margin-top: 35vh;
+    margin-left: 25%;
+    display: flex;
+    font-style: oblique;
+    text-transform: capitalize;
+}
+.formcolor{
+    border: 2px solid rgb(13, 13, 85);
+}
+.tar{
+    color: rgb(3, 139, 87);
+}
+.edit:hover{
+    background-color: rgb(255, 49, 117);
+    color: white;
+    border-radius: 5px;
+}
+.l1{
+    color: rgb(255, 49, 117);
+    text-transform: uppercase;
+}
+.l2{
+    text-transform: capitalize;
+    color: rgb(255, 49, 117);
+    font-weight: bold;
+}
+.square1{
+        border: 2px solid rgb(13, 13, 85);
+        border-radius: 5px ;
+        padding: 30px !important;
+        margin: 15px;
+}
+.square2{
+    border: 2px solid rgb(13, 13, 85);
+    border-radius: 5px ;
+    padding:24px !important;
+    margin: 15px;
+}
+.square3{
+    border: 2px solid rgb(13, 13, 85);
+}
+.editpro{
+    font-style: oblique;
+}
+.font5{
+    font-weight: 500;
+}
+.font6{
+    text-transform: capitalize;
+}
+.table{
+    width: 100%;
+}
+.bold{
+    font-weight: bold;
+}

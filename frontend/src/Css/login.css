@@ -1,0 +1,15 @@
+.fram{
+   margin-top: 15px !important;
+}
+.color{
+    background: repeating-linear-gradient(to right top, rgb(199, 246, 253), rgb(224, 217, 221));
+}
+.fram1{
+    color: rgb(5, 62, 136);
+    font-weight: 700;
+}
+.line{
+    margin-left: 5px;
+    font-weight: 700;
+    color: rgb(241, 0, 113) !important;
+}
